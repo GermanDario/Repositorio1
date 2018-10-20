@@ -1,0 +1,47 @@
+
+    h1{
+        text-align: center;
+        color: black;
+        background: #4B959E;
+    }
+
+
+    h2{
+        text-align: center;
+        background:#4B959E;
+        color:#FFFFFF;
+    }
+
+    h3{
+    text-align: center;
+    background:#4B959E;
+    color:#FFFFFF;
+    }
+                            
+    
+    .panel1 {
+           
+        width: 600px;
+        font-family :monospace;
+        text-align : center;
+        margin-top: 0px;
+        margin-top: 10px; 
+    }
+
+    .panel2 {
+        width: 300px;
+        font-family : monospace;  
+        text-align : center;     
+    }
+    .panel3 {
+        width: 300px;
+        font-family :monospace; 
+        text-align : center;      
+    }
+
+    .imagen {
+        margin-top: 10px;
+        width: 150px;   
+              
+    }
+
